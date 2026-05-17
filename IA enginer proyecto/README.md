@@ -21,7 +21,7 @@ es un chatbot que te ayuda a responder preguntas usando un documento linkedin el
 
 2. **Crear y activar el entorno virtual:**
    ```bash
-   python3.11 -m venv .venv
+   pythons -m venv .venv
    source .venv/bin/activate
    ```
 
