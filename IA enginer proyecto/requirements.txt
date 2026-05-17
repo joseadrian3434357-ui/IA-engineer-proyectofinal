@@ -1,11 +1,22 @@
 # Dependencies (Sorted alphabetically)
 chromadb
-langchain-core
-langchain-openai
+groq
+langchain_core
+langchain_openai
 langgraph
+numpy
 openai
-pydantic>=2
+protobuf
+pydantic
+pydantic[email]
+pypdf
 pytest
 python-dotenv
+rank_bm25
+rich
+sentence_transformers
+typing_extensions
+-dotenv
 rank-bm25
 typing_extensions
+pathlib
