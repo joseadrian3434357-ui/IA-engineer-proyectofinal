@@ -1,0 +1,11 @@
+# Dependencies (Sorted alphabetically)
+chromadb
+langchain-core
+langchain-openai
+langgraph
+openai
+pydantic>=2
+pytest
+python-dotenv
+rank-bm25
+typing_extensions

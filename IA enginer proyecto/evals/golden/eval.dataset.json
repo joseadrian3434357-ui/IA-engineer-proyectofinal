@@ -1,0 +1,42 @@
+[
+    {
+        "question": "¿Cuál es su puesto actual y dónde trabaja?",
+        "golden_answer": "Trabaja como Cofundador y Director de Tecnología (CTO) en Nebula.io, y también se desempeña como CTO para el grupo Wynden Stark y GQR Global Markets."
+    },
+    {
+        "question": "¿Cuáles son sus habilidades técnicas principales?",
+        "golden_answer": "Es experto en Python, Java, Redes Neuronales (Deep Learning / PyTorch / TensorFlow) y Modelos de Lenguaje Grande (LLMs). En la arquitectura web usa Flask, React, MongoDB, ElasticSearch y Kubernetes."
+    },
+    {
+        "question": "¿Cuántos años de experiencia profesional tiene en total?",
+        "golden_answer": "Tiene cerca de 30 años de experiencia, ya que comenzó trabajando como Desarrollador de Software en IBM alrededor de 1995."
+    },
+    {
+        "question": "¿Cuál fue su rol y cuánto tiempo estuvo en JPMorgan Chase?",
+        "golden_answer": "Trabajó en JPMorgan durante más de 11 años, llegando a ser Managing Director (Jefe de Tecnología para el Credit Portfolio Group), donde lideró a un equipo global de más de 300 desarrolladores."
+    },
+    {
+        "question": "¿Qué empresas o startups ha fundado?",
+        "golden_answer": "Ha fundado dos startups enfocadas en Inteligencia Artificial para el reclutamiento: primero fundó untapt en 2013 y posteriormente cofundó Nebula.io en 2021."
+    },
+    {
+        "question": "¿Qué grado académico tiene y dónde estudió?",
+        "golden_answer": "Estudió la carrera de Física (Physics) en la Universidad de Oxford entre los años 1992 y 1995."
+    },
+    {
+        "question": "¿Qué es Nebula.io y cuál es su objetivo principal?",
+        "golden_answer": "Nebula.io es una plataforma basada en IA que ayuda a los reclutadores a buscar talento sin usar la búsqueda tradicional por palabras clave. Su meta a largo plazo es ayudar a la gente a encontrar trabajos plenos bajo el concepto de Ikigai."
+    },
+    {
+        "question": "¿Tiene alguna otra contribución pública a la comunidad tecnológica?",
+        "golden_answer": "Sí, es creador de un curso hiperventas en Udemy sobre Ingeniería de LLMs y frecuentemente da conferencias en eventos presenciales importantes como O'Reilly Live y ODSC."
+    },
+    {
+        "question": "¿Está dispuesto a programar o sólo busca roles gerenciales?",
+        "golden_answer": "A pesar de su experiencia directiva, destaca que en su base sigue siendo un ingeniero y científico, por lo que frecuentemente programa y experimenta con LLMs durante sus fines de semana."
+    },
+    {
+        "question": "¿Dónde reside o trabaja actualmente?",
+        "golden_answer": "Reside y tiene su base de trabajo en Nueva York, Estados Unidos."
+    }
+]
